@@ -1,4 +1,5 @@
 # vuestagram
+vue.js3을 사용한 instagram 클론 코딩 입니다.
 
 ## Project setup
 ```
